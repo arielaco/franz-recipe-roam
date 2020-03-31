@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "ari <me@ariela.co>",
   "license": "MIT",
-  "repository": "https://github.com/arielaco/franz-recipe-roamresearch",
+  "repository": "https://github.com/arielaco/franz-recipe-roam",
   "config": {
     "serviceURL": "https://roamresearch.com/"
   }
