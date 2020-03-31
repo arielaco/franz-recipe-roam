@@ -1,0 +1,13 @@
+{
+  "id": "roam",
+  "name": "Roam",
+  "version": "0.0.1",
+  "description": "Roam Research",
+  "main": "index.js",
+  "author": "ari <me@ariela.co>",
+  "license": "MIT",
+  "repository": "https://github.com/arielaco/franz-recipe-roamresearch",
+  "config": {
+    "serviceURL": "https://roamresearch.com/"
+  }
+}
