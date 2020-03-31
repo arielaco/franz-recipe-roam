@@ -1,4 +1,4 @@
-# franz-recipe-roamresearch
+# franz-recipe-roam
 
 
 ### [Recipe](https://meetfranz.com/developer) for using [Roam](https://roamresearch.com/) in [Franz](https://meetfranz.com/)
